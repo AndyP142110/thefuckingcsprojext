@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="thefuckingcsprojext:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thefuckingcsprojext_jar</output-path>
+    <root id="archive" name="thefuckingcsprojext.jar">
+      <element id="module-output" name="thefuckingcsprojext" />
+    </root>
+  </artifact>
+</component>
